@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+ 
+header{
+    background-color: darkviolet;
+    margin: 0.5cm;
+    font-family: 'Borel', cursive, serif;
+    border-radius: 10px;
+    text-align: center;
+    color:aliceblue;
+ }
+img{
+  padding: 5px;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
+
+ .container{
+   margin: 0.5cm;
+   border-radius: 10px;
+   background-color: blueviolet;
+ }
+ .article{
+    margin: 0.5cm;
+    background-color: antiquewhite;
+    border-radius: 10px;
+ }
+
+ .borde{
+   background-color:mediumorchid;
+   text-align: center;
+   border-radius: 10px;
+ }
+
+ .bts{
+
+   background-color:darkmagenta;
+   font-family: 'Macondo', cursive;
+   font-family: 'Roboto Mono', monospace;
+   margin: 0.5cm;
+   border-radius: 10px;
+ }
+
+ body {
+  background-color: gold;
+ }
+
+ .spotify{
+  margin: 0.5cm;
+  border-radius: 10px;
+  
+}
